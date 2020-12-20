@@ -13,3 +13,8 @@ pip2 install requests
 
 
 pip2 install mechanize 
+
+
+pip install --upgrade pip
+
+pkg install openssh
