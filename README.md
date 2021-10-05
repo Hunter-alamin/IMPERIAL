@@ -15,6 +15,8 @@ pip2 install requests
 pip2 install mechanize 
 
 
-pip install --upgrade pip
+git clone https://github.com/Hunter-alamin/IMPERIAL
 
-pkg install openssh
+cd IMPERIAL
+
+python2 Imperial.py
