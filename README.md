@@ -21,7 +21,7 @@ git clone https://github.com/Hunter-alamin/IMPERIAL
 
 cd IMPERIAL
 
-python2 Imperial.py
+python Imperial.py
 
 
 ````
