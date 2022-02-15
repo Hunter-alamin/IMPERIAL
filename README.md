@@ -27,7 +27,7 @@ python Imperial.py
 ````
 
 # SCREENSHOTS
-![](https://f.top4top.io/p_21067aa5l0.jpg)
+![](https://raw.githubusercontent.com/Hunter-alamin/IMPERIAL/main/IMG_20211211_022905.jpg)
 
 # RECOMMENDED (TERMUX FROM FDROID)
 Download Link ==> https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-117-release/termux-fdroid-version-0-117-android-apk-download/
