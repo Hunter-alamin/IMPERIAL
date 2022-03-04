@@ -4,18 +4,11 @@
 
 pkg install python
 
-
 pkg install python2
-
 
 pkg install git
 
-
-pip2 install requests
-
-
-pip2 install mechanize 
-
+pip install bs4 mechanize request
 
 git clone https://github.com/Hunter-alamin/IMPERIAL
 
@@ -28,6 +21,13 @@ python Imperial.py
 
 # SCREENSHOTS
 ![](https://raw.githubusercontent.com/Hunter-alamin/IMPERIAL/main/IMG_20211211_022905.jpg)
+
+# SINGLE COMMAND
+````
+$ pkg install python && pkg install git && pip install bs4 mechanize request && git clone https://github.com/Hunter-alamin/IMPERIAL && cd IMPERIAL && python Imperial.py
+
+````
+
 
 # RECOMMENDED (TERMUX FROM FDROID)
 Download Link ==> https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-117-release/termux-fdroid-version-0-117-android-apk-download/
