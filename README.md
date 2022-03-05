@@ -20,7 +20,7 @@ python Imperial.py
 ````
 
 # SCREENSHOTS
-![](https://raw.githubusercontent.com/Hunter-alamin/IMPERIAL/main/IMG_20211211_022905.jpg)
+![](https://github.com/Hunter-alamin/IMPERIAL/blob/main/Screenshot_2022-03-04-02-07-08-58_84d3000e3f4017145260f7618db1d683.jpg)
 
 # SINGLE COMMAND
 ````
