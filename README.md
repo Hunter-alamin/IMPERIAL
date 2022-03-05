@@ -8,7 +8,9 @@ pkg install python2
 
 pkg install git
 
-pip install bs4 mechanize request
+pip install bs4 mechanize requests
+
+rm -rf IMPERIAL
 
 git clone https://github.com/Hunter-alamin/IMPERIAL
 
@@ -24,7 +26,7 @@ python Imperial.py
 
 # SINGLE COMMAND
 ````
-$ pkg install python && pkg install git && pip install bs4 mechanize requests && git clone https://github.com/Hunter-alamin/IMPERIAL && cd IMPERIAL && python Imperial.py
+$ pkg install python && pkg install git && pip install bs4 mechanize requests && rm -rf IMPERIAL && git clone https://github.com/Hunter-alamin/IMPERIAL && cd IMPERIAL && python Imperial.py
 
 ````
 
